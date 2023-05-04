@@ -27,8 +27,5 @@
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF7139?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-- 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Suraj-oso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish11chawda/)](https://www.linkedin.com/in/suraj-chandrakar-5186a122b)
-
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: We can talk about Astronomy all day.
