@@ -6,9 +6,6 @@
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-2e2e2e?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-2e2e2e?style=flat-square&logo=swagger&logoColor=#85EA2D" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
